@@ -1,0 +1,301 @@
+order_id,customer_name,customer_email,product,category,quantity,price,order_date,order_time,payment_method,shipping_city
+ORD202510148985,Kavita Reddy,kavita.reddy@gmail.com,Fire TV Stick,Electronics,1,4403,2025-10-14,16:19:00,Credit Card,Indore
+ORD202510148646,Manish Patel,manish.patel@gmail.com,Saree,Clothing,4,4608,2025-10-14,18:33:00,Cash on Delivery,Jaipur
+ORD202510147268,Rahul Joshi,rahul.joshi@gmail.com,Bookshelf,Home,2,5511,2025-10-14,16:38:00,Debit Card,Lucknow
+ORD202510145154,Sneha Singh,sneha.singh@gmail.com,Novel Set,Stationery,1,1270,2025-10-14,02:50:00,Net Banking,Mumbai
+ORD202510141189,Meera Gupta,meera.gupta@gmail.com,Bookshelf,Home,2,4283,2025-10-14,00:27:00,Cash on Delivery,Chennai
+ORD202510142109,Pooja Desai,pooja.desai@gmail.com,Table Lamp,Home,3,1407,2025-10-14,21:34:00,UPI,Vadodara
+ORD202510141588,Deepak Pandey,deepak.pandey@gmail.com,Office Chair,Home,1,8841,2025-10-14,22:01:00,UPI,Surat
+ORD202510145190,Suresh Gupta,suresh.gupta@gmail.com,Data Science Book,Stationery,1,693,2025-10-14,03:55:00,Credit Card,Surat
+ORD202510144338,Neha Agarwal,neha.agarwal@gmail.com,JBL Speaker,Electronics,1,8751,2025-10-14,01:21:00,Net Banking,Pune
+ORD202510144150,Rohan Gupta,rohan.gupta@gmail.com,iPad Pro,Electronics,2,90239,2025-10-14,08:10:00,Net Banking,Chennai
+ORD202510146320,Deepak Verma,deepak.verma@gmail.com,Wall Clock,Home,1,719,2025-10-14,06:15:00,Net Banking,Mumbai
+ORD202510146769,Rohan Mehta,rohan.mehta@gmail.com,Calculator Scientific,Stationery,1,621,2025-10-14,05:26:00,Wallet,Ahmedabad
+ORD202510144366,Anjali Nair,anjali.nair@gmail.com,Whiteboard,Stationery,3,1946,2025-10-14,20:26:00,Wallet,Nagpur
+ORD202510143483,Deepak Pandey,deepak.pandey@gmail.com,Python Programming Book,Stationery,1,508,2025-10-14,20:03:00,Wallet,Chandigarh
+ORD202510145003,Amit Tripathi,amit.tripathi@gmail.com,Mechanical Keyboard,Electronics,1,5373,2025-10-14,12:50:00,UPI,Indore
+ORD202510148012,Sanjay Reddy,sanjay.reddy@gmail.com,Treadmill,Sports,2,35105,2025-10-14,05:22:00,UPI,Lucknow
+ORD202510145106,Manish Joshi,manish.joshi@gmail.com,Handbag,Clothing,1,3527,2025-10-14,07:04:00,Cash on Delivery,Mumbai
+ORD202510145819,Sakshi Verma,sakshi.verma@gmail.com,Backpack,Clothing,2,2225,2025-10-14,13:29:00,UPI,Chandigarh
+ORD202510143846,Nikhil Reddy,nikhil.reddy@gmail.com,JBL Speaker,Electronics,4,6440,2025-10-14,19:07:00,UPI,Nagpur
+ORD202510142679,Divya Kumar,divya.kumar@gmail.com,Watch Fastrack,Clothing,1,3049,2025-10-14,03:27:00,UPI,Surat
+ORD202510149765,Arjun Iyer,arjun.iyer@gmail.com,Sports Track Pants,Clothing,1,1552,2025-10-14,03:51:00,UPI,Nagpur
+ORD202510149093,Harsh Joshi,harsh.joshi@gmail.com,Casual Dress,Clothing,3,1811,2025-10-14,20:12:00,Debit Card,Bangalore
+ORD202510146031,Rahul Patel,rahul.patel@gmail.com,Calculator Scientific,Stationery,1,956,2025-10-14,04:09:00,Cash on Delivery,Surat
+ORD202510141686,Neha Mehta,neha.mehta@gmail.com,Gym Bag,Sports,1,1168,2025-10-14,20:17:00,Cash on Delivery,Indore
+ORD202510142008,Suresh Nair,suresh.nair@gmail.com,Dumbbell Set 20kg,Sports,2,3563,2025-10-14,19:36:00,Debit Card,Jaipur
+ORD202510143606,Rahul Reddy,rahul.reddy@gmail.com,Handbag,Clothing,1,2629,2025-10-14,20:30:00,Cash on Delivery,Nagpur
+ORD202510148913,Anjali Reddy,anjali.reddy@gmail.com,Sports Track Pants,Clothing,1,1761,2025-10-14,16:21:00,Wallet,Chandigarh
+ORD202510149043,Deepak Sharma,deepak.sharma@gmail.com,Formal Shirt,Clothing,2,1083,2025-10-14,17:15:00,Credit Card,Jaipur
+ORD202510142161,Rohan Mehta,rohan.mehta@gmail.com,Badminton Racket,Sports,2,2656,2025-10-14,13:32:00,UPI,Pune
+ORD202510144914,Divya Singh,divya.singh@gmail.com,Kitchen Utensil Set,Home,1,1665,2025-10-14,20:18:00,Wallet,Chandigarh
+ORD202510148084,Meera Kumar,meera.kumar@gmail.com,Mechanical Keyboard,Electronics,1,4100,2025-10-14,03:17:00,Wallet,Delhi
+ORD202510149278,Priya Joshi,priya.joshi@gmail.com,HP Laptop,Electronics,1,49462,2025-10-14,23:05:00,Credit Card,Ahmedabad
+ORD202510148858,Priya Verma,priya.verma@gmail.com,Novel Set,Stationery,2,1056,2025-10-14,18:03:00,Debit Card,Delhi
+ORD202510147764,Suresh Kumar,suresh.kumar@gmail.com,Mechanical Keyboard,Electronics,3,5853,2025-10-14,05:10:00,Net Banking,Lucknow
+ORD202510149887,Nikhil Patel,nikhil.patel@gmail.com,Novel Set,Stationery,2,1176,2025-10-14,22:32:00,Debit Card,Nagpur
+ORD202510148405,Deepak Iyer,deepak.iyer@gmail.com,Levis Jeans,Clothing,1,3770,2025-10-14,06:00:00,UPI,Nagpur
+ORD202510145753,Manish Chauhan,manish.chauhan@gmail.com,Watch Fastrack,Clothing,1,3074,2025-10-14,20:27:00,Net Banking,Chandigarh
+ORD202510145944,Rohan Singh,rohan.singh@gmail.com,Casual Dress,Clothing,1,1939,2025-10-14,17:15:00,Credit Card,Vadodara
+ORD202510144211,Nikita Tripathi,nikita.tripathi@gmail.com,iPhone 15,Electronics,1,80640,2025-10-14,09:52:00,Wallet,Indore
+ORD202510146292,Deepak Desai,deepak.desai@gmail.com,Resistance Bands,Sports,1,857,2025-10-14,23:28:00,Wallet,Ahmedabad
+ORD202510147357,Ananya Mehta,ananya.mehta@gmail.com,Calculator Scientific,Stationery,2,904,2025-10-14,15:33:00,Debit Card,Surat
+ORD202510147908,Swati Agarwal,swati.agarwal@gmail.com,Dell Laptop,Electronics,1,61402,2025-10-14,08:40:00,UPI,Delhi
+ORD202510142911,Neha Pandey,neha.pandey@gmail.com,Bean Bag,Home,1,3259,2025-10-14,14:48:00,UPI,Delhi
+ORD202510144548,Meera Singh,meera.singh@gmail.com,Sunglasses,Clothing,1,1783,2025-10-14,11:09:00,Credit Card,Visakhapatnam
+ORD202510147785,Rahul Malhotra,rahul.malhotra@gmail.com,"Monitor 27""",Electronics,1,19499,2025-10-14,00:54:00,Net Banking,Jaipur
+ORD202510149352,Rohan Gupta,rohan.gupta@gmail.com,"Monitor 27""",Electronics,3,18809,2025-10-14,15:09:00,Net Banking,Coimbatore
+ORD202510143344,Deepak Gupta,deepak.gupta@gmail.com,Bedsheet Set,Home,1,917,2025-10-14,15:39:00,Credit Card,Pune
+ORD202510143596,Sakshi Kumar,sakshi.kumar@gmail.com,Backpack,Clothing,2,2802,2025-10-14,13:27:00,Net Banking,Visakhapatnam
+ORD202510141158,Karan Kapoor,karan.kapoor@gmail.com,Handbag,Clothing,1,2412,2025-10-14,16:23:00,Net Banking,Coimbatore
+ORD202510142577,Sakshi Malhotra,sakshi.malhotra@gmail.com,Sony Headphones,Electronics,1,10323,2025-10-14,16:29:00,Wallet,Vadodara
+ORD202510147411,Neha Mishra,neha.mishra@gmail.com,Novel Set,Stationery,3,1109,2025-10-14,05:43:00,Debit Card,Indore
+ORD202510144634,Karan Mehta,karan.mehta@gmail.com,Python Programming Book,Stationery,2,772,2025-10-14,01:44:00,Wallet,Visakhapatnam
+ORD202510147941,Anil Mehta,anil.mehta@gmail.com,Sony Headphones,Electronics,1,9221,2025-10-14,02:14:00,Net Banking,Delhi
+ORD202510146458,Priya Joshi,priya.joshi@gmail.com,Pencil Box,Stationery,1,333,2025-10-14,19:05:00,UPI,Kochi
+ORD202510147863,Riya Reddy,riya.reddy@gmail.com,Sony Headphones,Electronics,3,11442,2025-10-14,14:51:00,Cash on Delivery,Ahmedabad
+ORD202510142532,Deepak Singh,deepak.singh@gmail.com,Running Shoes,Sports,3,6352,2025-10-14,03:13:00,Credit Card,Mumbai
+ORD202510142112,Meera Gupta,meera.gupta@gmail.com,Football,Sports,1,1363,2025-10-14,05:30:00,Credit Card,Visakhapatnam
+ORD202510147330,Priya Tripathi,priya.tripathi@gmail.com,Bedsheet Set,Home,1,1494,2025-10-14,08:53:00,Net Banking,Bangalore
+ORD202510146837,Rajesh Singh,rajesh.singh@gmail.com,Cycling Gloves,Sports,2,506,2025-10-14,19:27:00,Net Banking,Pune
+ORD202510144818,Harsh Kumar,harsh.kumar@gmail.com,Sofa 3-Seater,Home,1,34632,2025-10-14,03:19:00,Credit Card,Indore
+ORD202510148409,Neha Reddy,neha.reddy@gmail.com,Data Science Book,Stationery,1,672,2025-10-14,21:50:00,Cash on Delivery,Chandigarh
+ORD202510146013,Rohan Pandey,rohan.pandey@gmail.com,Calculator Scientific,Stationery,2,861,2025-10-14,18:52:00,UPI,Bangalore
+ORD202510147102,Riya Rao,riya.rao@gmail.com,File Folders (20),Stationery,1,380,2025-10-14,10:11:00,Net Banking,Pune
+ORD202510149321,Sakshi Kapoor,sakshi.kapoor@gmail.com,Wall Clock,Home,1,992,2025-10-14,10:04:00,UPI,Coimbatore
+ORD202510148703,Anjali Singh,anjali.singh@gmail.com,Kindle,Electronics,1,10078,2025-10-14,12:11:00,Credit Card,Indore
+ORD202510144358,Rahul Patel,rahul.patel@gmail.com,Sunglasses,Clothing,3,1086,2025-10-14,02:55:00,Debit Card,Visakhapatnam
+ORD202510149905,Deepak Gupta,deepak.gupta@gmail.com,Sports Track Pants,Clothing,2,2413,2025-10-14,12:37:00,Cash on Delivery,Ahmedabad
+ORD202510145656,Deepak Nair,deepak.nair@gmail.com,Kurta Set,Clothing,2,2648,2025-10-14,00:18:00,Net Banking,Hyderabad
+ORD202510149254,Ananya Verma,ananya.verma@gmail.com,Table Lamp,Home,1,1420,2025-10-14,21:33:00,Net Banking,Chandigarh
+ORD202510146193,Arjun Singh,arjun.singh@gmail.com,Badminton Racket,Sports,1,2116,2025-10-14,15:29:00,Debit Card,Ahmedabad
+ORD202510146079,Preeti Pandey,preeti.pandey@gmail.com,Kitchen Utensil Set,Home,3,2075,2025-10-14,13:37:00,Net Banking,Lucknow
+ORD202510148038,Rahul Nair,rahul.nair@gmail.com,Pen Set Premium,Stationery,2,569,2025-10-14,17:19:00,Credit Card,Coimbatore
+ORD202510149755,Rohan Iyer,rohan.iyer@gmail.com,Notebook Pack (10),Stationery,2,477,2025-10-14,09:03:00,Credit Card,Chandigarh
+ORD202510148497,Manish Gupta,manish.gupta@gmail.com,Kurta Set,Clothing,1,2578,2025-10-14,19:23:00,Cash on Delivery,Kochi
+ORD202510141263,Aditya Nair,aditya.nair@gmail.com,"Samsung TV 55""",Electronics,1,54845,2025-10-14,06:26:00,Debit Card,Chennai
+ORD202510145378,Nikita Malhotra,nikita.malhotra@gmail.com,Yoga Mat Premium,Sports,1,1935,2025-10-14,15:07:00,Wallet,Nagpur
+ORD202510145652,Divya Malhotra,divya.malhotra@gmail.com,Carpet 6x4,Home,2,4629,2025-10-14,19:39:00,Net Banking,Indore
+ORD202510144714,Nikita Mishra,nikita.mishra@gmail.com,Office Chair,Home,2,9943,2025-10-14,10:56:00,UPI,Vadodara
+ORD202510147307,Sneha Agarwal,sneha.agarwal@gmail.com,MacBook Air,Electronics,3,117568,2025-10-14,06:06:00,Debit Card,Surat
+ORD202510146549,Kavita Rao,kavita.rao@gmail.com,Levis Jeans,Clothing,1,3465,2025-10-14,06:26:00,Cash on Delivery,Kochi
+ORD202510144401,Sneha Agarwal,sneha.agarwal@gmail.com,Bed Queen Size,Home,2,15504,2025-10-14,21:41:00,Debit Card,Indore
+ORD202510142887,Vikram Pandey,vikram.pandey@gmail.com,Curtains,Home,1,2094,2025-10-14,11:00:00,Net Banking,Jaipur
+ORD202510146670,Divya Chauhan,divya.chauhan@gmail.com,Resistance Bands,Sports,2,1297,2025-10-14,22:17:00,Debit Card,Mumbai
+ORD202510144140,Nikhil Iyer,nikhil.iyer@gmail.com,Cycling Gloves,Sports,2,759,2025-10-14,01:10:00,UPI,Vadodara
+ORD202510141672,Sakshi Verma,sakshi.verma@gmail.com,Pencil Box,Stationery,1,210,2025-10-14,12:48:00,Debit Card,Pune
+ORD202510144728,Priya Iyer,priya.iyer@gmail.com,File Folders (20),Stationery,1,494,2025-10-14,00:55:00,Net Banking,Pune
+ORD202510147919,Arjun Mehta,arjun.mehta@gmail.com,"Samsung TV 55""",Electronics,1,49999,2025-10-14,12:05:00,Net Banking,Lucknow
+ORD202510143518,Arjun Verma,arjun.verma@gmail.com,Cricket Bat,Sports,2,3970,2025-10-14,18:08:00,UPI,Coimbatore
+ORD202510143331,Meera Pandey,meera.pandey@gmail.com,Football,Sports,1,1182,2025-10-14,12:28:00,Net Banking,Pune
+ORD202510142207,Neha Pandey,neha.pandey@gmail.com,Calculator Scientific,Stationery,2,638,2025-10-14,00:21:00,Cash on Delivery,Chandigarh
+ORD202510145643,Meera Patel,meera.patel@gmail.com,Football,Sports,1,1006,2025-10-14,09:25:00,UPI,Pune
+ORD202510147160,Priya Joshi,priya.joshi@gmail.com,Mechanical Keyboard,Electronics,3,4043,2025-10-14,19:19:00,Debit Card,Pune
+ORD202510146110,Preeti Nair,preeti.nair@gmail.com,Mattress,Home,1,13405,2025-10-14,16:47:00,Credit Card,Bangalore
+ORD202510141374,Nikita Kapoor,nikita.kapoor@gmail.com,Winter Jacket,Clothing,2,4364,2025-10-14,06:45:00,UPI,Jaipur
+ORD202510143858,Karan Kumar,karan.kumar@gmail.com,Samsung Galaxy S24,Electronics,1,72908,2025-10-14,11:27:00,Net Banking,Vadodara
+ORD202510149514,Sakshi Rao,sakshi.rao@gmail.com,Python Programming Book,Stationery,3,692,2025-10-14,00:52:00,Credit Card,Kochi
+ORD202510141188,Manish Malhotra,manish.malhotra@gmail.com,Casual Dress,Clothing,3,1676,2025-10-14,22:05:00,Net Banking,Mumbai
+ORD202510145961,Anjali Mehta,anjali.mehta@gmail.com,Python Programming Book,Stationery,1,753,2025-10-14,10:56:00,UPI,Bangalore
+ORD202510147338,Priya Gupta,priya.gupta@gmail.com,Apple Watch,Electronics,1,43328,2025-10-14,23:51:00,Credit Card,Surat
+ORD202510146348,Suresh Reddy,suresh.reddy@gmail.com,Calculator Scientific,Stationery,1,786,2025-10-14,12:15:00,Debit Card,Jaipur
+ORD202510143916,Sanjay Desai,sanjay.desai@gmail.com,Pencil Box,Stationery,1,286,2025-10-14,07:47:00,Wallet,Kochi
+ORD202510144542,Kavita Kumar,kavita.kumar@gmail.com,Nike Shoes,Clothing,1,6461,2025-10-14,23:56:00,Net Banking,Hyderabad
+ORD202510143528,Meera Gupta,meera.gupta@gmail.com,Backpack,Clothing,1,2819,2025-10-14,07:02:00,Wallet,Pune
+ORD202510147751,Divya Pandey,divya.pandey@gmail.com,Table Lamp,Home,1,1294,2025-10-14,15:00:00,Debit Card,Vadodara
+ORD202510149754,Rohan Tripathi,rohan.tripathi@gmail.com,Whiteboard,Stationery,1,1980,2025-10-14,09:37:00,Cash on Delivery,Surat
+ORD202510146097,Neha Malhotra,neha.malhotra@gmail.com,Yoga Mat Premium,Sports,2,1750,2025-10-14,23:57:00,Cash on Delivery,Jaipur
+ORD202510146671,Ananya Iyer,ananya.iyer@gmail.com,Samsung Galaxy S24,Electronics,1,74429,2025-10-14,22:53:00,Wallet,Pune
+ORD202510141986,Shreya Verma,shreya.verma@gmail.com,Leather Belt,Clothing,1,857,2025-10-14,01:10:00,Net Banking,Chennai
+ORD202510148014,Manish Reddy,manish.reddy@gmail.com,Cycling Gloves,Sports,2,723,2025-10-14,08:14:00,Debit Card,Kolkata
+ORD202510149996,Pooja Agarwal,pooja.agarwal@gmail.com,JBL Speaker,Electronics,1,6683,2025-10-14,10:16:00,UPI,Lucknow
+ORD202510144682,Shreya Reddy,shreya.reddy@gmail.com,Pen Set Premium,Stationery,2,750,2025-10-14,18:23:00,Debit Card,Bangalore
+ORD202510142897,Harsh Sharma,harsh.sharma@gmail.com,Cricket Bat,Sports,3,3848,2025-10-14,14:45:00,Wallet,Delhi
+ORD202510142489,Priya Tripathi,priya.tripathi@gmail.com,Canon Camera,Electronics,1,57853,2025-10-14,09:18:00,Wallet,Ahmedabad
+ORD202510146599,Kavita Pandey,kavita.pandey@gmail.com,Nike Shoes,Clothing,1,5466,2025-10-14,12:51:00,Wallet,Jaipur
+ORD202510143115,Sneha Iyer,sneha.iyer@gmail.com,Badminton Racket,Sports,1,2135,2025-10-14,08:58:00,UPI,Chennai
+ORD202510141404,Sanjay Chauhan,sanjay.chauhan@gmail.com,Resistance Bands,Sports,2,920,2025-10-14,21:47:00,Debit Card,Vadodara
+ORD202510146616,Manish Singh,manish.singh@gmail.com,MacBook Air,Electronics,4,101992,2025-10-14,17:16:00,Wallet,Jaipur
+ORD202510144015,Nikita Nair,nikita.nair@gmail.com,Art Supplies Kit,Stationery,1,1633,2025-10-14,04:05:00,UPI,Jaipur
+ORD202510149569,Suresh Malhotra,suresh.malhotra@gmail.com,HP Laptop,Electronics,1,48902,2025-10-14,23:10:00,Debit Card,Bangalore
+ORD202510143489,Aditya Chauhan,aditya.chauhan@gmail.com,Calculator Scientific,Stationery,1,862,2025-10-14,03:01:00,Net Banking,Kolkata
+ORD202510142893,Sneha Gupta,sneha.gupta@gmail.com,Gym Bag,Sports,1,1233,2025-10-14,23:40:00,Net Banking,Surat
+ORD202510145574,Ananya Gupta,ananya.gupta@gmail.com,Casual Dress,Clothing,5,1908,2025-10-14,12:07:00,Net Banking,Vadodara
+ORD202510146737,Rahul Gupta,rahul.gupta@gmail.com,Notebook Pack (10),Stationery,3,311,2025-10-14,15:31:00,Wallet,Ahmedabad
+ORD202510146045,Swati Reddy,swati.reddy@gmail.com,Gym Bag,Sports,1,1663,2025-10-14,16:43:00,Debit Card,Nagpur
+ORD202510143048,Preeti Rao,preeti.rao@gmail.com,Backpack,Clothing,2,1876,2025-10-14,15:09:00,Debit Card,Mumbai
+ORD202510146790,Vikram Mishra,vikram.mishra@gmail.com,Watch Fastrack,Clothing,2,3012,2025-10-14,08:28:00,Credit Card,Surat
+ORD202510141368,Swati Kumar,swati.kumar@gmail.com,Sony Headphones,Electronics,1,9678,2025-10-14,07:31:00,Debit Card,Visakhapatnam
+ORD202510143700,Suresh Rao,suresh.rao@gmail.com,Nikon Camera,Electronics,3,73423,2025-10-14,07:12:00,Net Banking,Coimbatore
+ORD202510149599,Rajesh Kumar,rajesh.kumar@gmail.com,Badminton Racket,Sports,1,2595,2025-10-14,01:35:00,Credit Card,Delhi
+ORD202510149348,Amit Sharma,amit.sharma@gmail.com,iPhone 15,Electronics,3,86440,2025-10-14,07:34:00,Debit Card,Visakhapatnam
+ORD202510149617,Pooja Mehta,pooja.mehta@gmail.com,Dining Table Set,Home,2,27680,2025-10-14,23:44:00,Cash on Delivery,Hyderabad
+ORD202510148882,Amit Gupta,amit.gupta@gmail.com,Bedsheet Set,Home,1,1792,2025-10-14,23:10:00,UPI,Coimbatore
+ORD202510141339,Sanjay Kumar,sanjay.kumar@gmail.com,Dining Table Set,Home,1,28437,2025-10-14,23:47:00,Cash on Delivery,Pune
+ORD202510146192,Kavita Pandey,kavita.pandey@gmail.com,Kindle,Electronics,1,9736,2025-10-14,21:28:00,Credit Card,Lucknow
+ORD202510141689,Karan Iyer,karan.iyer@gmail.com,Notebook Pack (10),Stationery,2,357,2025-10-14,14:56:00,Wallet,Hyderabad
+ORD202510147077,Sneha Chauhan,sneha.chauhan@gmail.com,Office Chair,Home,1,7638,2025-10-14,17:03:00,UPI,Surat
+ORD202510142837,Rajesh Rao,rajesh.rao@gmail.com,Notebook Pack (10),Stationery,3,339,2025-10-14,17:01:00,UPI,Visakhapatnam
+ORD202510149757,Ananya Kapoor,ananya.kapoor@gmail.com,Pen Set Premium,Stationery,1,572,2025-10-14,17:36:00,Net Banking,Lucknow
+ORD202510141578,Sanjay Agarwal,sanjay.agarwal@gmail.com,Wireless Mouse,Electronics,1,1370,2025-10-14,15:00:00,UPI,Vadodara
+ORD202510146065,Suresh Kapoor,suresh.kapoor@gmail.com,iPad Pro,Electronics,1,99805,2025-10-14,08:03:00,Net Banking,Indore
+ORD202510148698,Divya Singh,divya.singh@gmail.com,Pencil Box,Stationery,1,301,2025-10-14,02:36:00,Debit Card,Nagpur
+ORD202510141085,Divya Reddy,divya.reddy@gmail.com,Calculator Scientific,Stationery,2,922,2025-10-14,02:54:00,UPI,Hyderabad
+ORD202510148812,Suresh Reddy,suresh.reddy@gmail.com,Yoga Mat Premium,Sports,1,1818,2025-10-14,03:57:00,Debit Card,Pune
+ORD202510143500,Neha Joshi,neha.joshi@gmail.com,Mattress,Home,1,11983,2025-10-14,19:58:00,Net Banking,Kolkata
+ORD202510144204,Anil Agarwal,anil.agarwal@gmail.com,Notebook Pack (10),Stationery,1,483,2025-10-14,02:51:00,Credit Card,Bangalore
+ORD202510145219,Aditya Joshi,aditya.joshi@gmail.com,"LG TV 43""",Electronics,1,34047,2025-10-14,09:32:00,UPI,Lucknow
+ORD202510141947,Suresh Reddy,suresh.reddy@gmail.com,Bookshelf,Home,1,5963,2025-10-14,20:45:00,Debit Card,Delhi
+ORD202510146747,Rohan Chauhan,rohan.chauhan@gmail.com,Mirror Large,Home,5,2979,2025-10-14,00:05:00,Debit Card,Jaipur
+ORD202510143698,Swati Gupta,swati.gupta@gmail.com,iPhone 15,Electronics,1,81925,2025-10-14,23:25:00,Cash on Delivery,Bangalore
+ORD202510142426,Harsh Mehta,harsh.mehta@gmail.com,Kurta Set,Clothing,1,2876,2025-10-14,23:48:00,UPI,Mumbai
+ORD202510147281,Amit Malhotra,amit.malhotra@gmail.com,Curtains,Home,2,1617,2025-10-14,08:26:00,Credit Card,Jaipur
+ORD202510149827,Swati Malhotra,swati.malhotra@gmail.com,Cycling Gloves,Sports,2,589,2025-10-14,17:07:00,Cash on Delivery,Kolkata
+ORD202510145689,Meera Mishra,meera.mishra@gmail.com,Dining Table Set,Home,1,20721,2025-10-14,06:05:00,Wallet,Ahmedabad
+ORD202510145084,Rahul Verma,rahul.verma@gmail.com,Bedsheet Set,Home,3,1362,2025-10-14,08:28:00,Credit Card,Visakhapatnam
+ORD202510145996,Vikram Kapoor,vikram.kapoor@gmail.com,Leather Belt,Clothing,3,720,2025-10-14,13:04:00,Net Banking,Vadodara
+ORD202510143497,Anjali Kumar,anjali.kumar@gmail.com,Dining Table Set,Home,2,22772,2025-10-14,06:55:00,Wallet,Kochi
+ORD202510146573,Meera Verma,meera.verma@gmail.com,Kitchen Utensil Set,Home,1,1895,2025-10-14,02:51:00,Debit Card,Indore
+ORD202510143417,Rohan Pandey,rohan.pandey@gmail.com,Mirror Large,Home,1,2568,2025-10-14,03:18:00,Cash on Delivery,Kochi
+ORD202510141655,Sneha Kapoor,sneha.kapoor@gmail.com,Art Supplies Kit,Stationery,1,2423,2025-10-14,18:14:00,UPI,Jaipur
+ORD202510145239,Suresh Nair,suresh.nair@gmail.com,Levis Jeans,Clothing,2,2636,2025-10-14,16:11:00,Credit Card,Kochi
+ORD202510149423,Sakshi Verma,sakshi.verma@gmail.com,Cycling Gloves,Sports,1,742,2025-10-14,19:33:00,Debit Card,Ahmedabad
+ORD202510141941,Priya Gupta,priya.gupta@gmail.com,Apple Watch,Electronics,1,48774,2025-10-14,09:24:00,Cash on Delivery,Mumbai
+ORD202510144741,Sneha Tripathi,sneha.tripathi@gmail.com,Notebook Pack (10),Stationery,1,479,2025-10-14,14:44:00,Cash on Delivery,Nagpur
+ORD202510142835,Shreya Tripathi,shreya.tripathi@gmail.com,Calculator Scientific,Stationery,1,680,2025-10-14,23:14:00,Credit Card,Nagpur
+ORD202510141748,Amit Rao,amit.rao@gmail.com,Apple Watch,Electronics,2,45305,2025-10-14,09:52:00,Wallet,Vadodara
+ORD202510142654,Rajesh Agarwal,rajesh.agarwal@gmail.com,Leather Belt,Clothing,1,666,2025-10-14,15:07:00,Cash on Delivery,Nagpur
+ORD202510148356,Deepak Kapoor,deepak.kapoor@gmail.com,Data Science Book,Stationery,1,605,2025-10-14,07:15:00,Debit Card,Mumbai
+ORD202510147555,Kavita Singh,kavita.singh@gmail.com,Yoga Mat Premium,Sports,1,1581,2025-10-14,16:23:00,Cash on Delivery,Kochi
+ORD202510145306,Swati Desai,swati.desai@gmail.com,iPad Pro,Electronics,5,93302,2025-10-14,02:07:00,UPI,Coimbatore
+ORD202510145277,Sanjay Kapoor,sanjay.kapoor@gmail.com,Whiteboard,Stationery,2,1561,2025-10-14,15:40:00,Credit Card,Visakhapatnam
+ORD202510147901,Anil Kumar,anil.kumar@gmail.com,Notebook Pack (10),Stationery,1,313,2025-10-14,19:59:00,Credit Card,Hyderabad
+ORD202510147621,Arjun Malhotra,arjun.malhotra@gmail.com,Resistance Bands,Sports,3,1278,2025-10-14,08:06:00,Credit Card,Visakhapatnam
+ORD202510147485,Divya Mehta,divya.mehta@gmail.com,Leather Belt,Clothing,1,835,2025-10-14,17:17:00,Cash on Delivery,Kochi
+ORD202510142122,Rajesh Sharma,rajesh.sharma@gmail.com,Curtains,Home,3,2875,2025-10-14,15:41:00,UPI,Nagpur
+ORD202510149374,Riya Agarwal,riya.agarwal@gmail.com,Resistance Bands,Sports,1,1114,2025-10-14,11:53:00,Cash on Delivery,Indore
+ORD202510148132,Neha Kumar,neha.kumar@gmail.com,iPad Pro,Electronics,1,92694,2025-10-14,02:33:00,Net Banking,Pune
+ORD202510146530,Anil Desai,anil.desai@gmail.com,Office Chair,Home,1,10349,2025-10-14,16:19:00,Wallet,Mumbai
+ORD202510141442,Sakshi Sharma,sakshi.sharma@gmail.com,Football,Sports,1,1396,2025-10-14,15:46:00,Debit Card,Chennai
+ORD202510148863,Arjun Sharma,arjun.sharma@gmail.com,Bed Queen Size,Home,2,23081,2025-10-14,03:11:00,Cash on Delivery,Chandigarh
+ORD202510147369,Rajesh Nair,rajesh.nair@gmail.com,Nike Shoes,Clothing,1,7432,2025-10-14,05:11:00,Cash on Delivery,Ahmedabad
+ORD202510146617,Priya Reddy,priya.reddy@gmail.com,Mechanical Keyboard,Electronics,2,4004,2025-10-14,03:37:00,UPI,Delhi
+ORD202510149923,Ananya Singh,ananya.singh@gmail.com,Pencil Box,Stationery,1,245,2025-10-14,23:32:00,Wallet,Bangalore
+ORD202510142739,Aditya Reddy,aditya.reddy@gmail.com,Dumbbell Set 20kg,Sports,1,4621,2025-10-14,19:30:00,Wallet,Kolkata
+ORD202510143323,Rahul Singh,rahul.singh@gmail.com,Kitchen Utensil Set,Home,1,2008,2025-10-14,10:56:00,Debit Card,Ahmedabad
+ORD202510149961,Rajesh Patel,rajesh.patel@gmail.com,Bean Bag,Home,2,3630,2025-10-14,18:37:00,Net Banking,Chandigarh
+ORD202510146548,Kavita Sharma,kavita.sharma@gmail.com,Notebook Pack (10),Stationery,5,470,2025-10-14,15:29:00,Cash on Delivery,Delhi
+ORD202510143144,Rohan Pandey,rohan.pandey@gmail.com,Running Shoes,Sports,1,5167,2025-10-14,00:05:00,Credit Card,Coimbatore
+ORD202510148872,Ananya Kumar,ananya.kumar@gmail.com,Mirror Large,Home,2,2117,2025-10-14,18:37:00,Cash on Delivery,Pune
+ORD202510149414,Meera Desai,meera.desai@gmail.com,Casual Dress,Clothing,3,2246,2025-10-14,14:49:00,Credit Card,Jaipur
+ORD202510147418,Kavita Pandey,kavita.pandey@gmail.com,Mattress,Home,1,9816,2025-10-14,18:02:00,Cash on Delivery,Surat
+ORD202510149099,Neha Verma,neha.verma@gmail.com,Sunglasses,Clothing,2,1880,2025-10-14,12:40:00,Credit Card,Chandigarh
+ORD202510146771,Rahul Verma,rahul.verma@gmail.com,File Folders (20),Stationery,4,572,2025-10-14,18:50:00,Credit Card,Hyderabad
+ORD202510144103,Pooja Verma,pooja.verma@gmail.com,Badminton Racket,Sports,3,1588,2025-10-14,17:13:00,Net Banking,Delhi
+ORD202510148833,Karan Verma,karan.verma@gmail.com,Canon Camera,Electronics,1,58481,2025-10-14,21:40:00,Wallet,Delhi
+ORD202510149842,Anil Kumar,anil.kumar@gmail.com,Printer HP,Electronics,1,9558,2025-10-14,05:06:00,Debit Card,Indore
+ORD202510143658,Pooja Kumar,pooja.kumar@gmail.com,Curtains,Home,1,2477,2025-10-14,19:01:00,Net Banking,Kochi
+ORD202510149607,Ananya Reddy,ananya.reddy@gmail.com,Wireless Mouse,Electronics,1,1486,2025-10-14,16:37:00,Cash on Delivery,Lucknow
+ORD202510146280,Aditya Kumar,aditya.kumar@gmail.com,Nikon Camera,Electronics,2,61545,2025-10-14,02:13:00,UPI,Surat
+ORD202510149030,Pooja Rao,pooja.rao@gmail.com,Badminton Racket,Sports,1,1984,2025-10-14,01:17:00,Debit Card,Bangalore
+ORD202510148673,Nikita Patel,nikita.patel@gmail.com,Bean Bag,Home,1,3344,2025-10-14,01:16:00,Debit Card,Surat
+ORD202510142439,Shreya Gupta,shreya.gupta@gmail.com,Sony Headphones,Electronics,2,9488,2025-10-14,02:25:00,Wallet,Delhi
+ORD202510144040,Divya Chauhan,divya.chauhan@gmail.com,Office Chair,Home,2,11328,2025-10-14,10:11:00,Cash on Delivery,Chandigarh
+ORD202510148903,Manish Mehta,manish.mehta@gmail.com,Resistance Bands,Sports,2,912,2025-10-14,21:31:00,Wallet,Chandigarh
+ORD202510149724,Meera Mishra,meera.mishra@gmail.com,Sony Headphones,Electronics,1,9758,2025-10-14,20:24:00,Cash on Delivery,Delhi
+ORD202510148501,Karan Mishra,karan.mishra@gmail.com,Formal Shirt,Clothing,1,1388,2025-10-14,06:48:00,Credit Card,Jaipur
+ORD202510144129,Anjali Iyer,anjali.iyer@gmail.com,Sofa 3-Seater,Home,2,24975,2025-10-14,02:05:00,Cash on Delivery,Jaipur
+ORD202510149587,Neha Mehta,neha.mehta@gmail.com,Wall Clock,Home,1,792,2025-10-14,05:59:00,UPI,Chandigarh
+ORD202510141802,Shreya Malhotra,shreya.malhotra@gmail.com,Pen Set Premium,Stationery,3,710,2025-10-14,15:33:00,Debit Card,Jaipur
+ORD202510145173,Sakshi Reddy,sakshi.reddy@gmail.com,Dining Table Set,Home,5,29643,2025-10-14,02:36:00,Debit Card,Ahmedabad
+ORD202510144154,Kavita Sharma,kavita.sharma@gmail.com,Fire TV Stick,Electronics,3,4102,2025-10-14,14:28:00,Net Banking,Chennai
+ORD202510146763,Harsh Agarwal,harsh.agarwal@gmail.com,Dumbbell Set 20kg,Sports,1,4933,2025-10-14,08:21:00,Credit Card,Hyderabad
+ORD202510145097,Anjali Patel,anjali.patel@gmail.com,Wall Clock,Home,1,958,2025-10-14,05:16:00,Debit Card,Bangalore
+ORD202510149474,Suresh Reddy,suresh.reddy@gmail.com,Calculator Scientific,Stationery,1,917,2025-10-14,09:28:00,Cash on Delivery,Chennai
+ORD202510145128,Divya Mishra,divya.mishra@gmail.com,Watch Fastrack,Clothing,1,3701,2025-10-14,23:55:00,Net Banking,Ahmedabad
+ORD202510146144,Ananya Malhotra,ananya.malhotra@gmail.com,Cycling Gloves,Sports,3,523,2025-10-14,21:16:00,Cash on Delivery,Lucknow
+ORD202510149821,Deepak Sharma,deepak.sharma@gmail.com,Mirror Large,Home,1,2152,2025-10-14,20:41:00,Net Banking,Coimbatore
+ORD202510143765,Rohan Pandey,rohan.pandey@gmail.com,Sofa 3-Seater,Home,1,21538,2025-10-14,10:45:00,Wallet,Chennai
+ORD202510147170,Sakshi Nair,sakshi.nair@gmail.com,Whiteboard,Stationery,2,1934,2025-10-14,17:43:00,UPI,Vadodara
+ORD202510143505,Riya Sharma,riya.sharma@gmail.com,Printer HP,Electronics,4,10407,2025-10-14,12:01:00,Debit Card,Lucknow
+ORD202510149828,Priya Rao,priya.rao@gmail.com,Sofa 3-Seater,Home,1,20957,2025-10-14,06:31:00,Debit Card,Indore
+ORD202510143599,Rohan Pandey,rohan.pandey@gmail.com,Casual Dress,Clothing,5,2275,2025-10-14,23:50:00,Debit Card,Kolkata
+ORD202510146464,Riya Malhotra,riya.malhotra@gmail.com,Dining Table Set,Home,2,29907,2025-10-14,19:24:00,Cash on Delivery,Lucknow
+ORD202510141721,Amit Sharma,amit.sharma@gmail.com,Apple Watch,Electronics,3,45897,2025-10-14,18:21:00,Net Banking,Jaipur
+ORD202510141887,Deepak Patel,deepak.patel@gmail.com,Wireless Mouse,Electronics,2,1319,2025-10-14,08:08:00,Debit Card,Pune
+ORD202510141550,Deepak Reddy,deepak.reddy@gmail.com,Sports Track Pants,Clothing,1,1304,2025-10-14,17:13:00,Net Banking,Kochi
+ORD202510147730,Pooja Mishra,pooja.mishra@gmail.com,Pen Set Premium,Stationery,2,516,2025-10-14,20:22:00,Net Banking,Chandigarh
+ORD202510146641,Harsh Mishra,harsh.mishra@gmail.com,Nikon Camera,Electronics,1,59953,2025-10-14,18:14:00,Net Banking,Mumbai
+ORD202510148056,Rajesh Joshi,rajesh.joshi@gmail.com,Sports Track Pants,Clothing,1,2470,2025-10-14,12:40:00,Wallet,Chennai
+ORD202510145135,Rohan Nair,rohan.nair@gmail.com,Cycling Gloves,Sports,1,644,2025-10-14,19:12:00,UPI,Indore
+ORD202510147439,Sanjay Mishra,sanjay.mishra@gmail.com,Sofa 3-Seater,Home,2,25557,2025-10-14,03:18:00,Debit Card,Lucknow
+ORD202510144817,Rahul Singh,rahul.singh@gmail.com,"LG TV 43""",Electronics,5,34805,2025-10-14,23:52:00,Net Banking,Pune
+ORD202510141338,Sakshi Pandey,sakshi.pandey@gmail.com,"Monitor 27""",Electronics,1,19421,2025-10-14,11:44:00,Credit Card,Visakhapatnam
+ORD202510142585,Rohan Nair,rohan.nair@gmail.com,Data Science Book,Stationery,2,837,2025-10-14,06:49:00,Wallet,Vadodara
+ORD202510147386,Anjali Singh,anjali.singh@gmail.com,Gym Bag,Sports,1,1792,2025-10-14,21:50:00,Debit Card,Surat
+ORD202510141512,Neha Patel,neha.patel@gmail.com,Resistance Bands,Sports,1,1191,2025-10-14,14:54:00,UPI,Vadodara
+ORD202510142467,Anjali Desai,anjali.desai@gmail.com,Handbag,Clothing,5,3045,2025-10-14,09:34:00,Wallet,Indore
+ORD202510146752,Vikram Reddy,vikram.reddy@gmail.com,Curtains,Home,1,2481,2025-10-14,06:37:00,UPI,Mumbai
+ORD202510145141,Aditya Rao,aditya.rao@gmail.com,Badminton Racket,Sports,1,2077,2025-10-14,12:09:00,UPI,Surat
+ORD202510143750,Kavita Joshi,kavita.joshi@gmail.com,Calculator Scientific,Stationery,1,915,2025-10-14,08:39:00,Net Banking,Kochi
+ORD202510145341,Sakshi Pandey,sakshi.pandey@gmail.com,T-Shirt Pack (3),Clothing,1,1169,2025-10-14,21:32:00,Net Banking,Chennai
+ORD202510145409,Neha Chauhan,neha.chauhan@gmail.com,Printer HP,Electronics,1,9038,2025-10-14,06:59:00,Credit Card,Mumbai
+ORD202510141597,Kavita Malhotra,kavita.malhotra@gmail.com,Bedsheet Set,Home,1,1494,2025-10-14,02:37:00,Cash on Delivery,Jaipur
+ORD202510145919,Rahul Agarwal,rahul.agarwal@gmail.com,HP Laptop,Electronics,3,54120,2025-10-14,17:03:00,Wallet,Vadodara
+ORD202510149832,Priya Kumar,priya.kumar@gmail.com,"LG TV 43""",Electronics,1,33495,2025-10-14,04:21:00,Wallet,Lucknow
+ORD202510141507,Neha Desai,neha.desai@gmail.com,Bed Queen Size,Home,1,16946,2025-10-14,00:57:00,Debit Card,Delhi
+ORD202510145675,Priya Chauhan,priya.chauhan@gmail.com,Fire TV Stick,Electronics,1,4988,2025-10-14,14:36:00,Debit Card,Mumbai
+ORD202510141056,Anjali Singh,anjali.singh@gmail.com,Bed Queen Size,Home,1,21269,2025-10-14,04:32:00,Cash on Delivery,Kolkata
+ORD202510141663,Amit Kumar,amit.kumar@gmail.com,Study Table,Home,2,7629,2025-10-14,13:56:00,Wallet,Kochi
+ORD202510142172,Priya Nair,priya.nair@gmail.com,Carpet 6x4,Home,1,3586,2025-10-14,16:27:00,Cash on Delivery,Visakhapatnam
+ORD202510143928,Vikram Mehta,vikram.mehta@gmail.com,Wireless Mouse,Electronics,1,1071,2025-10-14,01:07:00,Cash on Delivery,Coimbatore
+ORD202510141426,Priya Patel,priya.patel@gmail.com,Mirror Large,Home,2,2017,2025-10-14,11:55:00,Wallet,Ahmedabad
+ORD202510147223,Shreya Verma,shreya.verma@gmail.com,Dining Table Set,Home,1,29921,2025-10-14,18:14:00,UPI,Mumbai
+ORD202510147605,Ananya Rao,ananya.rao@gmail.com,Mattress,Home,2,15015,2025-10-14,18:05:00,Wallet,Kochi
+ORD202510143374,Rajesh Patel,rajesh.patel@gmail.com,Handbag,Clothing,3,3547,2025-10-14,08:38:00,Debit Card,Pune
+ORD202510149276,Sneha Joshi,sneha.joshi@gmail.com,Gym Bag,Sports,1,1548,2025-10-14,19:16:00,Credit Card,Kochi
+ORD202510147647,Nikita Tripathi,nikita.tripathi@gmail.com,Football,Sports,1,1125,2025-10-14,14:35:00,Credit Card,Kolkata
+ORD202510144937,Harsh Rao,harsh.rao@gmail.com,Novel Set,Stationery,1,1107,2025-10-14,13:40:00,Wallet,Visakhapatnam
+ORD202510147881,Sanjay Kumar,sanjay.kumar@gmail.com,Fire TV Stick,Electronics,2,4736,2025-10-14,04:20:00,Credit Card,Delhi
+ORD202510146801,Vikram Pandey,vikram.pandey@gmail.com,Fire TV Stick,Electronics,2,4877,2025-10-14,14:02:00,Net Banking,Kochi
+ORD202510147765,Amit Nair,amit.nair@gmail.com,Fire TV Stick,Electronics,1,4543,2025-10-14,04:10:00,Debit Card,Pune
+ORD202510144688,Pooja Mishra,pooja.mishra@gmail.com,Carpet 6x4,Home,2,3481,2025-10-14,21:40:00,Credit Card,Mumbai
+ORD202510141781,Arjun Kapoor,arjun.kapoor@gmail.com,File Folders (20),Stationery,1,427,2025-10-14,21:04:00,Cash on Delivery,Pune
+ORD202510147586,Ananya Pandey,ananya.pandey@gmail.com,Cycling Gloves,Sports,1,504,2025-10-14,16:41:00,Wallet,Chennai
+ORD202510145189,Priya Iyer,priya.iyer@gmail.com,Cycling Gloves,Sports,1,867,2025-10-14,20:31:00,UPI,Indore
+ORD202510141038,Rohan Malhotra,rohan.malhotra@gmail.com,Dumbbell Set 20kg,Sports,3,3345,2025-10-14,05:36:00,Wallet,Bangalore
+ORD202510147155,Nikita Mishra,nikita.mishra@gmail.com,Wall Clock,Home,1,950,2025-10-14,14:11:00,Wallet,Lucknow
+ORD202510146751,Manish Kapoor,manish.kapoor@gmail.com,Running Shoes,Sports,1,5442,2025-10-14,04:10:00,Debit Card,Vadodara
+ORD202510143384,Preeti Kapoor,preeti.kapoor@gmail.com,Kurta Set,Clothing,1,2094,2025-10-14,03:36:00,Debit Card,Kolkata
+ORD202510143058,Meera Rao,meera.rao@gmail.com,Treadmill,Sports,1,34658,2025-10-14,02:26:00,UPI,Coimbatore
+ORD202510142496,Harsh Mishra,harsh.mishra@gmail.com,Canon Camera,Electronics,1,56902,2025-10-14,01:57:00,UPI,Jaipur
+ORD202510145842,Harsh Agarwal,harsh.agarwal@gmail.com,Yoga Mat Premium,Sports,1,1854,2025-10-14,17:46:00,Net Banking,Visakhapatnam
+ORD202510147721,Manish Rao,manish.rao@gmail.com,Cricket Bat,Sports,2,3519,2025-10-14,12:31:00,Net Banking,Delhi
+ORD202510149315,Divya Chauhan,divya.chauhan@gmail.com,File Folders (20),Stationery,1,345,2025-10-14,02:53:00,Credit Card,Lucknow
+ORD202510143099,Harsh Kumar,harsh.kumar@gmail.com,iPhone 15,Electronics,1,89590,2025-10-14,13:19:00,Debit Card,Chandigarh
+ORD202510142619,Divya Pandey,divya.pandey@gmail.com,Pencil Box,Stationery,1,323,2025-10-14,13:09:00,Cash on Delivery,Nagpur
+ORD202510149858,Riya Pandey,riya.pandey@gmail.com,Cricket Bat,Sports,1,2736,2025-10-14,11:33:00,Credit Card,Visakhapatnam
+ORD202510149221,Arjun Tripathi,arjun.tripathi@gmail.com,Treadmill,Sports,1,44939,2025-10-14,06:45:00,Cash on Delivery,Kolkata
+ORD202510143245,Preeti Sharma,preeti.sharma@gmail.com,Whiteboard,Stationery,1,2142,2025-10-14,13:08:00,Wallet,Jaipur
+ORD202510142263,Nikita Tripathi,nikita.tripathi@gmail.com,Whiteboard,Stationery,1,1602,2025-10-14,20:13:00,Debit Card,Lucknow
+ORD202510146345,Rahul Joshi,rahul.joshi@gmail.com,Calculator Scientific,Stationery,2,890,2025-10-14,22:59:00,Cash on Delivery,Nagpur
+ORD202510142419,Nikita Kumar,nikita.kumar@gmail.com,Resistance Bands,Sports,3,945,2025-10-14,08:51:00,Debit Card,Vadodara
+ORD202510147911,Nikita Singh,nikita.singh@gmail.com,Dumbbell Set 20kg,Sports,1,4687,2025-10-14,21:10:00,Net Banking,Bangalore
+ORD202510141760,Meera Mishra,meera.mishra@gmail.com,Apple Watch,Electronics,1,49697,2025-10-14,00:29:00,UPI,Lucknow
+ORD202510145805,Neha Kumar,neha.kumar@gmail.com,"Monitor 27""",Electronics,3,15845,2025-10-14,14:36:00,UPI,Coimbatore
+ORD202510148384,Sneha Verma,sneha.verma@gmail.com,File Folders (20),Stationery,2,491,2025-10-14,17:59:00,Debit Card,Jaipur
+ORD202510148042,Nikhil Mishra,nikhil.mishra@gmail.com,Notebook Pack (10),Stationery,1,370,2025-10-14,22:30:00,Net Banking,Vadodara
+ORD202510147862,Swati Kapoor,swati.kapoor@gmail.com,Badminton Racket,Sports,1,1880,2025-10-14,17:43:00,Cash on Delivery,Kochi
+ORD202510141365,Neha Patel,neha.patel@gmail.com,Backpack,Clothing,1,1949,2025-10-14,16:13:00,Wallet,Visakhapatnam
+ORD202510142313,Rohan Gupta,rohan.gupta@gmail.com,Pen Set Premium,Stationery,1,671,2025-10-14,08:24:00,Wallet,Delhi
+ORD202510141547,Rajesh Rao,rajesh.rao@gmail.com,Canon Camera,Electronics,1,45291,2025-10-14,13:21:00,Credit Card,Visakhapatnam
+ORD202510144101,Preeti Singh,preeti.singh@gmail.com,Fire TV Stick,Electronics,3,4702,2025-10-14,08:50:00,Wallet,Nagpur
+ORD202510148737,Deepak Singh,deepak.singh@gmail.com,Study Table,Home,3,8057,2025-10-14,08:20:00,Credit Card,Surat
+ORD202510147055,Rohan Tripathi,rohan.tripathi@gmail.com,Pen Set Premium,Stationery,1,680,2025-10-14,18:56:00,UPI,Vadodara
+ORD202510141000,Nikhil Kumar,nikhil.kumar@gmail.com,"Samsung TV 55""",Electronics,1,51231,2025-10-14,07:36:00,Wallet,Lucknow
+ORD202510144274,Vikram Chauhan,vikram.chauhan@gmail.com,Cricket Bat,Sports,1,3471,2025-10-14,07:26:00,Debit Card,Indore
+ORD202510142863,Harsh Sharma,harsh.sharma@gmail.com,Backpack,Clothing,3,2999,2025-10-14,16:00:00,Cash on Delivery,Surat
+ORD202510147600,Shreya Gupta,shreya.gupta@gmail.com,Pencil Box,Stationery,1,304,2025-10-14,05:55:00,UPI,Bangalore
+ORD202510146528,Deepak Verma,deepak.verma@gmail.com,Python Programming Book,Stationery,1,596,2025-10-14,22:29:00,Wallet,Lucknow
+ORD202510143282,Rohan Gupta,rohan.gupta@gmail.com,Adidas Sneakers,Clothing,4,8973,2025-10-14,11:32:00,Cash on Delivery,Bangalore
+ORD202510142461,Ananya Desai,ananya.desai@gmail.com,T-Shirt Pack (3),Clothing,4,909,2025-10-14,18:23:00,Net Banking,Mumbai
